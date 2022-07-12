@@ -1,7 +1,7 @@
 ### Paulo here 👋
 
   <img src="https://github-readme-stats.vercel.app/api?username=Studki&count_private=true&include_all_commits=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-  <div style="position:relative; right:80px; top:20px">
+  <div style="position:relative; right:800px; top:20px">
   <img src="https://github-profile-trophy.vercel.app/?username=Studki&title=Commit&theme=onedark" height="200" top:1000px/><!--https://github.com/ryo-ma/github-profile-trophy-->
   </div>
   
